@@ -1,6 +1,14 @@
 react-css-devices
 ==================
 
+(*fork available as `react-css-devices-supportchef`*)
+
+Key differences of fork
+-----------------------
+ - Exports `availableDevices`
+ - Has latest Marvel devices, (iPhone X and Note 8) 
+
+
 React component for CSS Devices in your project.
 *(NOTE: This project is still work in progress. Marvel Devices are however ready to use. More devices and customization coming soon.)*
 
